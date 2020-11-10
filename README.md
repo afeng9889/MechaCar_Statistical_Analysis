@@ -32,7 +32,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ### Total Summary
 ![Total Summary](images/total_test.png)
-
+- This is not statistically different as the p-value is only 0.06. This indicates weak evidence against the null hypothesis.
 
 ### Individual Summaries
 ![Lot 1 Summary](images/lot1_test.png)
@@ -40,3 +40,22 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ![Lot 2 Summary](images/lot2_test.png)
 
 ![Lot 3 Summary](images/lott3_test.png)
+
+- Both Lot 1 and Lot 2 are significant since they are higher than the 0.05. We fail to reject the null hypothesis.
+- Lot 3 is not statistically significant with 0.04. Therefore we reject the null hypothesis.
+
+## Study Design: MechaCar vs Competition
+
+What metric or metrics are you going to test?
+- We can measure the MechaCar against other manufacturers with cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+- The maintenance cost would be one of the biggest factors for consumers as they do not want to constantly spend money on the upkeep of their vehicles.
+
+What is the null hypothesis or alternative hypothesis?
+- The null hypothesis would be no significant difference between MechCar's maintenance costs and other manufacturer's maintenance costs.
+
+What statistical test would you use to test the hypothesis? And why?
+- We can use a t-test to determine whether there is significant average monthly/annual costs for maintaining the vehicles.
+
+What data is needed to run the statistical test?
+- We would need average cost of maintaining the vehicle in working drivable condition, whether it would be on a monthly cost, annual cost, or even repairs due to accidents.
+
