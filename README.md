@@ -37,4 +37,4 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ![Lot 2 Summary](images/lot2_test.png)
 
-![Lot 3 Summary](images/lot3_test.png)
+![Lot 3 Summary](images/lott3_test.png)
